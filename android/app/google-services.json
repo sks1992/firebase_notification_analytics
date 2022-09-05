@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028239107797",
+    "project_id": "fir-notification-4790a",
+    "storage_bucket": "fir-notification-4790a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028239107797:android:7428f88dcf9193ecd6e45c",
+        "android_client_info": {
+          "package_name": "com.example.flirebase_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028239107797-vu8eh81t9din81m91u7o9q41qtirmla8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8rEEPhxf8isZxv9NIaJaR7Ztuaeon61w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028239107797-vu8eh81t9din81m91u7o9q41qtirmla8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
